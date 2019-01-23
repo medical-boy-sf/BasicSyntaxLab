@@ -4,5 +4,3 @@ function numbersFromNto1 (n) {
         console.log(i);
     }
 }
-
-numbersFromNto1(10);
