@@ -7,5 +7,3 @@ function sumOfOddNumbers(n) {
     }
     console.log(`Sum: ${sum}`);
 }
-
-sumOfOddNumbers(3);
